@@ -7,6 +7,10 @@ permalink: /job-market-advice/
 
 Advice from my experience as a first-time candidate on the 2021–22 international marketing academic job market, and advanced AP job market candidate in 2023-24. It covers every stage: preparing, applying, waiting, first-round interviews, flyouts (in person and virtual), offers and negotiations, and outside options.
 
+## EMAC Job Market Training
+
+I will chair the **[EMAC Job Market Training event](https://www.emac.academy/emac-job-market-training/)** for the next few years. If you're going on the international academic job market, consider applying for the training to receive more detailed and personalized advice.
+
 ## Recommended Resources
 - Anatoli Colicev, [PhD Journey slides](https://drive.google.com/file/d/1XKbZ6OzTVrxsfw58a9sv_FOwaU1UuJLF/view) ([website](https://anatolicolicev.com/))
 - Shrabastee Banerjee, [job market advice](https://sites.google.com/view/shrabastee/job-market) ([website](https://sites.google.com/view/shrabastee))
