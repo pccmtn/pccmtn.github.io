@@ -5,9 +5,7 @@ permalink: /job-market-advice/
 ---
 # 2021–2022 (Marketing) Job Market: Advice and Material
 
-Advice from my experience as a first-time candidate on the 2021–22 international marketing academic job market. It covers every stage: preparing, applying, waiting, first-round interviews, flyouts (in person and virtual), offers and negotiations, and outside options.
-
-**The full phase-by-phase guide is [here](https://sites.google.com/view/martinapocchiari/job-market-advice) while I move it to this site.**
+Advice from my experience as a first-time candidate on the 2021–22 international marketing academic job market, and advanced AP job market candidate in 2023-24. It covers every stage: preparing, applying, waiting, first-round interviews, flyouts (in person and virtual), offers and negotiations, and outside options.
 
 ## Recommended Resources
 - Anatoli Colicev, [PhD Journey slides](https://drive.google.com/file/d/1XKbZ6OzTVrxsfw58a9sv_FOwaU1UuJLF/view) ([website](https://anatolicolicev.com/))
