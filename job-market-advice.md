@@ -155,7 +155,7 @@ Rehearse your presentations as many times as it makes you comfortable with the m
 ### During the interview:	
 - Breathe and pace your speech (not too fast)
 - If a question from the audience is unclear, don't jump to an answer just because you feel pressured. it's your right to request clarifications.
-- - I learned (at my expense :')) ) that there may be cultural differences in expectations about the way your content is delivered. Competence and calmness are great, but it could happen that a certain level of enthusiasm and entertainment is expected instead (which may be not natural and/or could be considered above-average or out-of-context for some people/cultures)
+- I learned (at my expense :')) ) that there may be cultural differences in expectations about the way your content is delivered. Competence and calmness are great, but it could happen that a certain level of enthusiasm and entertainment is expected instead (which may be not natural and/or could be considered above-average or out-of-context for some people/cultures)
 
 Be ready to answer questions about yourself, like:
 - Why did you apply to this school?
@@ -200,11 +200,24 @@ These are going to be *very practical* tips, on top of whatever your advisor/col
 - Whenever you get a bathroom break, take it. If you don't get one, ask for a minute between meetings.
 - Get up, take a walk, stretch your legs, open the window of the room you are in, have a snack, fill up your water.
 - I really recommend investing in two pieces of equipment:
--- 1. A good microphone (price level around 100€, you'll use it for normal meetings/conferences/etc, and it will cover any background noise, it's really worth it)
--- 2. One, or even 2 ring lights (about 20€/light, will make you look FABULOUS on camera)
+- - A good microphone (price level around 100€, you'll use it for normal meetings/conferences/etc, and it will cover any background noise, it's really worth it)
+- - One, or even 2 ring lights (about 20€/light, will make you look FABULOUS on camera)
 - Background must be neutral or mildly interesting. I don't like virtual backgrounds, so the blurred background was a good option to mask my surroundings if needed
-- I bought fresh flowers for myself before flyouts and placed them behind me: they mask background objects, look amazing on camera, people will compliment you for them, and they are a treat that YOU DESERVE!
+- I bought fresh flowers for myself before flyouts and placed them behind me: they mask background objects, look amazing on camera, people will compliment you for them, and they are a treat that YOU DESERVE!
+
+
 Post-2021 advice: can you schedule an in-person visit? If yes, go!
 
 ## Phase 6 – Offers and Negotiations
+
+I am going to defer negotiation tips to people who are more senior/expert/received more than I did. My only advice is -- if you're a woman, you're likely asking too little. Whatever your baseline is: ask for at least 10% more of what you are thinking (and it might still be too low).
+
+I kept a document with negotiation advice that I found here and there on Twitter/Linkedin (not updated frequently). [Here it is](https://drive.google.com/file/d/1KwVUqfilXOlhwZ2IyRNNlBxAyj-18gV1/view?usp=sharing). 
+
 ## The Outside Options
+
+PLEASE be aware that there is life happening outside of academia. About a year before the market starts, try looking into job openings in industry/public policy/organization in an area close to your research interests.
+
+Understand what are the requirements to apply for outside jobs, what the process looks like, and what the positions entail.
+
+**Consider applying for industry internships 1.5 years before your market starts.**
