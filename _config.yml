@@ -1,0 +1,24 @@
+title: Martina Pocchiari
+description: Assistant Professor of Marketing, Esade Business School
+url: "https://martinapocchiari.com"
+baseurl: ""
+markdown: kramdown
+
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Talks
+    url: /talks/
+  - title: Teaching
+    url: /teaching/
+  - title: Awards
+    url: /awards/
+  - title: Media
+    url: /media/
+  - title: Job Market Advice
+    url: /job-market-advice/
+
+exclude:
+  - README.md
