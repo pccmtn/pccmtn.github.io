@@ -81,7 +81,7 @@ Ask faculty in your department, your advisors, your coauthors, your former advis
 - Interview presentations
 - CV
 - Fac simile cover letter
-- 
+
 Check in with the external parties, and send reminders if you are expecting material from someone. Include:
 - What are you expecting
 - What is the deadline
