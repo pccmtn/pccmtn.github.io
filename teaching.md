@@ -7,8 +7,8 @@ permalink: /teaching/
 
 ## PhD Courses
 - **Workshop: Classification, performance and benchmarking with LLMs**
-- - Esade Business School, 2025–2027
-- - DIW Berlin, 2026–2027
+  - Esade Business School, 2025–2027
+  - DIW Berlin, 2026–2027
 - **Workshop: UGC for marketing research**, Peking University, 2023–2024
 
 ## MSc Courses
