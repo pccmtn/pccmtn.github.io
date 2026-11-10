@@ -6,10 +6,8 @@ permalink: /media/
 # Media
 
 ## Media Coverage
-<!-- TODO: turn the titles into links by copying the URLs from the old Google Site, e.g.
-     [“There's No One-size-fits-all ...”](https://...) -->
-- **NUS BizBeat**: “There's No One-size-fits-all Approach to Building Social Connections”
-- **WIZ Consultancy**: “NUS Professor Ph.D. Martina Pocchiari's Approach to Digital Marketing Education”
+- **NUS BizBeat**: [“There's No One-size-fits-all Approach to Building Social Connections”](https://bizbeat.nus.edu.sg/faculty/theres-no-one-size-fits-all-approach-to-building-social-connections/)
+- **WIZ Consultancy**: [“NUS Professor Ph.D. Martina Pocchiari's Approach to Digital Marketing Education”](https://www.wizconsultancy.com/general/nus-professor-ph-d-martina-pocchiaris-approach-to-digital-marketing-education/)
 
 ## Blog
 - **[A Guide to Analyzing Experimental Data](https://towardsdatascience.com/a-guide-to-analyzing-experimental-data-7b05eea7e70c)** (July 2021)<br>
