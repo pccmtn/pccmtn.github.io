@@ -10,6 +10,26 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  {% if page.url == "/" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Martina Pocchiari",
+    "url": "{{ site.url }}/",
+    "image": "{{ site.url }}/assets/photo.jpg",
+    "jobTitle": "Assistant Professor of Marketing",
+    "worksFor": { "@type": "CollegeOrUniversity", "name": "Esade Business School" },
+    "alumniOf": { "@type": "CollegeOrUniversity", "name": "Erasmus University Rotterdam" },
+    "sameAs": [
+      "https://www.esade.edu/faculty/martina.pocchiari",
+      "https://www.linkedin.com/in/martina-pocchiari/",
+      "https://twitter.com/pccmtn",
+      "https://github.com/pccmtn"
+    ]
+  }
+  </script>
+  {% endif %}
 </head>
 <body>
   <header class="site-header">

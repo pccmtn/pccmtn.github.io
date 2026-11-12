@@ -4,6 +4,10 @@ url: "https://martinapocchiari.com"
 baseurl: ""
 markdown: kramdown
 
+# Builds /sitemap.xml automatically so search engines find every page
+plugins:
+  - jekyll-sitemap
+
 # Cookie-free visitor stats (goatcounter.com). Put your GoatCounter code
 # between the quotes, e.g. "martinapocchiari". Leave empty to turn tracking off.
 goatcounter: ""
